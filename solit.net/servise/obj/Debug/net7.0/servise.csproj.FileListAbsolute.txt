@@ -1,0 +1,15 @@
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\servise\bin\Debug\net7.0\servise.deps.json
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\servise\bin\Debug\net7.0\servise.dll
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\servise\bin\Debug\net7.0\servise.pdb
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\servise\bin\Debug\net7.0\data.dll
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\servise\bin\Debug\net7.0\data.pdb
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\servise\obj\Debug\net7.0\servise.csproj.AssemblyReference.cache
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\servise\obj\Debug\net7.0\servise.GeneratedMSBuildEditorConfig.editorconfig
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\servise\obj\Debug\net7.0\servise.AssemblyInfoInputs.cache
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\servise\obj\Debug\net7.0\servise.AssemblyInfo.cs
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\servise\obj\Debug\net7.0\servise.csproj.CoreCompileInputs.cache
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\servise\obj\Debug\net7.0\servise.csproj.CopyComplete
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\servise\obj\Debug\net7.0\servise.dll
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\servise\obj\Debug\net7.0\refint\servise.dll
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\servise\obj\Debug\net7.0\servise.pdb
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\servise\obj\Debug\net7.0\ref\servise.dll

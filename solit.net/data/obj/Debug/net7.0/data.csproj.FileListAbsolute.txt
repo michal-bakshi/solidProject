@@ -1,0 +1,14 @@
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\data\bin\Debug\net7.0\data.deps.json
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\data\bin\Debug\net7.0\data.runtimeconfig.json
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\data\bin\Debug\net7.0\data.dll
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\data\bin\Debug\net7.0\data.pdb
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\data\obj\Debug\net7.0\data.csproj.AssemblyReference.cache
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\data\obj\Debug\net7.0\data.GeneratedMSBuildEditorConfig.editorconfig
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\data\obj\Debug\net7.0\data.AssemblyInfoInputs.cache
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\data\obj\Debug\net7.0\data.AssemblyInfo.cs
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\data\obj\Debug\net7.0\data.csproj.CoreCompileInputs.cache
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\data\obj\Debug\net7.0\data.dll
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\data\obj\Debug\net7.0\refint\data.dll
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\data\obj\Debug\net7.0\data.pdb
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\data\obj\Debug\net7.0\data.genruntimeconfig.cache
+M:\PH\kt-14\tichnut\Michal bakshi\c#\solid_project\solit.net\data\obj\Debug\net7.0\ref\data.dll
